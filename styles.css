@@ -1,0 +1,44 @@
+/* General styling for the webpage */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f8ff; /* Light blue background */
+    margin: 20px;
+    line-height: 1.6;
+}
+
+/* Styling for the main heading */
+h1 {
+    color: #2c3e50; /* Dark blue */
+    text-align: center;
+}
+
+/* Styling for paragraphs */
+p {
+    color: #34495e;
+    font-size: 16px;
+    margin: 10px 0;
+}
+
+/* Styling for the list */
+ul {
+    list-style-type: square;
+    margin-left: 20px;
+    color: #16a085;
+}
+
+/* Styling for the hyperlink */
+a {
+    color: #2980b9; /* Bright blue */
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Styling for the image */
+img {
+    display: block;
+    margin: 20px auto;
+    border: 2px solid #16a085;
+}
